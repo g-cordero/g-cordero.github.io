@@ -6,7 +6,7 @@ title: Welcome!
 
 feature_row_title: Academic Interests
 feature_row:
-  - image_path: Research.png
+  - image_path: Research.jpg
     alt: "Interest in Research and mentoring"
     image_caption: "[Designed by Freepik](https://www.freepik.com/free-photo/young-woman-sitting-library-using-books-computer_5495048.htm)"
     title: "Research methods and mentoring"
