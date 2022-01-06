@@ -28,9 +28,9 @@ feature_row:
 
 ## Welcome to my website!
 
-I am an Assistant Professor at [Ponce Health Sciences University](https://www.psm.edu/) in Puerto Rico. I teach courses about research methods and research skills in the School of Behavioral and Brain Sciences.
+I am an Assistant Professor at [Ponce Health Sciences University](https://www.psm.edu/) in Puerto Rico. I teach courses about research methods and psychological and cognitive assessment in the School of Behavioral and Brain Sciences.
 
-My main areas of research are on cognition, learning, and technology in the Cognition, Learning, and Technology Lab of PHSU Neuro-Cognitive Laboratory. You can find more information in the <a href="{{ site.url }}{{ site.baseurl }}/research">Research section</a>.
+My main areas of research are on assessment and intervention of cognition and academic skills at PHSU Neuro-Cognitive Laboratory. You can find more information in the <a href="{{ site.url }}{{ site.baseurl }}/research">Research section</a>.
 
 
 <!-- Delete next line if you prefer not to have a feature row. -->
