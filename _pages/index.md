@@ -7,23 +7,23 @@ title: Welcome!
 feature_row_title: Academic Interests
 feature_row:
   - image_path: /images/methods_stats.jpeg
-    alt: "Interest in Research"
-    image_caption: "[Designed by Freepik](https://www.freepik.com/free-vector/illustration-data-analysis-graph_2807756.htm)"
-    title: "Research methods & Data analysis"
+    alt: "Interest in Research and mentoring"
+    image_caption: "[Designed by Freepik](https://www.freepik.com/free-photo/young-woman-sitting-library-using-books-computer_5495048.htm)"
+    title: "Research methods and mentoring"
     excerpt:
-        "I am interested in developing new methods for improving data collection and analysis."
+        "I am interested in applying different research methods and provide mentoring for students."
   - image_path: /images/science.jpeg
-    alt: "Interest in Science"
-    image_caption: "[Designed by Freepik](https://www.freepik.com/free-photo/symbols-come-out-bulb-top-book_985250.htm)"
-    title: "Open science & Philosophy of science"
+    alt: "Interest in assessment"
+    image_caption: "[Designed by Freepik](https://www.freepik.com/free-photo/kid-doing-occupational-therapy-session_18036573.htm?query=psychological&from_query=psychological+assessment)"
+    title: "Psychological and cognitive assessment"
     excerpt:
-        "I am an advocate of open science and promote conversations about how to improve the way we do science."
+        "I am interested in improving the techniques used during psychological and cognitive assessment."
   - image_path: /images/coding.jpeg
-    alt: "Interest in Coding"
-    image_caption: "[Designed by Freepik](https://www.freepik.com/free-photo/programming-code-with-laptop-background_902700.htm)"
-    title: "Coding & Research software"
+    alt: "Interest in intervention"
+    image_caption: "[Designed by Freepik](https://www.freepik.com/free-photo/young-woman-doing-speech-therapy-with-little-boy_18683349.htm#query=psychology%20child&position=46&from_view=search)"
+    title: "Psychological and cognitive intervention"
     excerpt:
-        "I develop easy to use and adapt software tools to improve and simplify research on cognition and learning."
+        "I am interested in developing and conducting cognitive and academic interventions for children."
 ---
 
 ## Welcome to my website!
