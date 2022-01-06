@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 permalink: /
-title: Welcome!
+title: Welcome to my website!
 
 feature_row_title: Academic Interests
 feature_row:
@@ -25,8 +25,6 @@ feature_row:
     excerpt:
         "I am interested in developing and conducting cognitive and academic interventions for children."
 ---
-
-## Welcome to my website!
 
 I am an Assistant Professor at [Ponce Health Sciences University](https://www.psm.edu/) in Puerto Rico. I teach courses about research methods and psychological and cognitive assessment in the School of Behavioral and Brain Sciences.
 
