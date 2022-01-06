@@ -21,7 +21,7 @@ feature_row:
   - image_path: /images/Intervention.jpg
     alt: "Interest in intervention"
     image_caption: "[Designed by Freepik](https://www.freepik.com/free-photo/young-woman-doing-speech-therapy-with-little-boy_18683349.htm#query=psychology%20child&position=46&from_view=search)"
-    title: "Psychological and cognitive intervention"
+    title: "Academic and cognitive intervention"
     excerpt:
         "I am interested in developing and conducting cognitive and academic interventions for children."
 ---
