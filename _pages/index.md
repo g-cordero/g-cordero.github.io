@@ -6,19 +6,19 @@ title: Welcome!
 
 feature_row_title: Academic Interests
 feature_row:
-  - image_path: /images/methods_stats.jpeg
+  - image_path: Research.png
     alt: "Interest in Research and mentoring"
     image_caption: "[Designed by Freepik](https://www.freepik.com/free-photo/young-woman-sitting-library-using-books-computer_5495048.htm)"
     title: "Research methods and mentoring"
     excerpt:
         "I am interested in applying different research methods and provide mentoring for students."
-  - image_path: /images/science.jpeg
+  - image_path: assessment.jpg
     alt: "Interest in assessment"
     image_caption: "[Designed by Freepik](https://www.freepik.com/free-photo/kid-doing-occupational-therapy-session_18036573.htm?query=psychological&from_query=psychological+assessment)"
     title: "Psychological and cognitive assessment"
     excerpt:
         "I am interested in improving the techniques used during psychological and cognitive assessment."
-  - image_path: /images/coding.jpeg
+  - image_path: Intervention.jpg
     alt: "Interest in intervention"
     image_caption: "[Designed by Freepik](https://www.freepik.com/free-photo/young-woman-doing-speech-therapy-with-little-boy_18683349.htm#query=psychology%20child&position=46&from_view=search)"
     title: "Psychological and cognitive intervention"
