@@ -22,7 +22,7 @@ description              : "My personal webpage for sharing my academic and rese
 ##################################################
 author:
   name             : "Giselle Cordero-Arroyo"
-  avatar           : "Bio.jpg"
+  avatar           : "/images/Bio.jpg"
   bio              : "Researcher and professor of Psychology"
   location: "Puerto Rico"
   #links that appear in the authors navigation sidebar
