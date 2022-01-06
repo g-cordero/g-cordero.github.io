@@ -12,16 +12,16 @@
 # Basic info
 ##################################################
 locale                   : "en-US"
-title                    : "Mario E Bermonti-Pérez"
+title                    : "Giselle Cordero-Arroyo"
 subtitle                 : # site tagline that appears below site title in masthead
 title_separator          : "-"
-name                     : "Mario E Bermonti-Pérez"
-description              : "My personal webpage and blog for sharing my academic information and ideas."
+name                     : "Giselle Cordero-Arroyo"
+description              : "My personal webpage for sharing my academic and research information."
 
 # Site Author info
 ##################################################
 author:
-  name             : "Mario E Bermonti-Pérez"
+  name             : "Giselle Cordero-Arroyo"
   avatar           : "/images/bio-photo.jpeg"
   bio              : "Researcher and professor of Psychology"
   location: "Puerto Rico"
@@ -29,25 +29,20 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square fa-lg"
-      url: "mailto:mbermonti@psm.edu"
+      url: "mailto:gcordero@pms.edu"
     - label: "ResearchGate"
       icon: "fab fa-researchgate fa-lg"
-      url: "https://www.researchgate.net/profile/Mario-Bermonti-Perez"
+      url: "https://www.researchgate.net/profile/Giselle-Cordero-Arroyo"
     - label: "ORCID"
       icon: "fab fa-orcid fa-lg"
-      url: "https://orcid.org/0000-0001-5228-2538"
+      url: "https://orcid.org/0000-0002-3419-4515"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
-      url: "http://scholar.google.com/citations?user=4StcUcEAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=W2dbYZgAAAAJ&hl=es"
     - label: "LinkedIn"
       icon: "fab fa-linkedin fa-lg"
-      url: "https://pr.linkedin.com/in/mario-bermonti-p%C3%A9rez-286b943b"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square fa-lg"
-      url: "https://mobile.twitter.com/m_bermonti"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github fa-lg"
-      url: "https://github.com/mario-bermonti"
+      url: "https://www.linkedin.com/in/giselle-cordero-arroyo-4a40a512a/"
+    
 
 # Social Sharing
 ##################################################
