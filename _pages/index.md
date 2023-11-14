@@ -11,24 +11,24 @@ feature_row:
     image_caption: "[Designed by Freepik](https://www.freepik.com/free-photo/young-woman-sitting-library-using-books-computer_5495048.htm)"
     title: "Research methods and mentoring"
     excerpt:
-        "I am interested in applying different research methods and provide mentoring for students."
+        "I am interested in applying different research methods and mentoring students."
   - image_path: /images/assessment.jpg
     alt: "Interest in assessment"
     image_caption: "[Designed by Freepik](https://www.freepik.com/free-photo/kid-doing-occupational-therapy-session_18036573.htm?query=psychological&from_query=psychological+assessment)"
     title: "Psychological and cognitive assessment"
     excerpt:
-        "I am interested in improving the techniques used during psychological and cognitive assessment."
+        "I want to improve the psychological and cognitive assessment techniques."
   - image_path: /images/Intervention.jpg
     alt: "Interest in intervention"
     image_caption: "[Designed by Freepik](https://www.freepik.com/free-photo/young-woman-doing-speech-therapy-with-little-boy_18683349.htm#query=psychology%20child&position=46&from_view=search)"
     title: "Academic and cognitive intervention"
     excerpt:
-        "I am interested in developing and conducting cognitive and academic interventions for children."
+        "I am interested in developing cognitive and academic interventions for school and university populations."
 ---
 
 I am an Assistant Professor at [Ponce Health Sciences University](https://www.psm.edu/) in Puerto Rico. I teach courses about research methods and psychological and cognitive assessment in the School of Behavioral and Brain Sciences.
 
-My main areas of research are on assessment and intervention of cognition and academic skills at PHSU [Cognition, Learning, and Technology Laboratory (CLTLab)](https://cognition-learning-tech-lab.github.io/). You can find more information in the <a href="{{ site.url }}{{ site.baseurl }}/research">Research section</a>.
+I am a researcher at the [Cognition, Learning, and Technology Laboratory (CLTLab](https://cognition-learning-tech-lab.github.io/); co-led by Dr. Mario E. Bermonti-Pérez). We use technology to understand neuropsychological functioning in healthy persons and persons experiencing mental and physical illnesses. My main areas of research are on the assessment and intervention of cognition (e.g., cognitive planning, attention, working memory) in people with neurodevelopmental disorders (e.g., ADHD). Also, I am interested in applying qualitative methods to understand cognition in different populations and mentoring students in these areas. You can find more information in the <a href="{{ site.url }}{{ site.baseurl }}/research">Research section</a>.
 
 
 <!-- Delete next line if you prefer not to have a feature row. -->
