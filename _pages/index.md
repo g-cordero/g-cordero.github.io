@@ -28,7 +28,7 @@ feature_row:
 
 I am an Assistant Professor at [Ponce Health Sciences University](https://www.psm.edu/) in Puerto Rico. I teach courses about research methods and psychological and cognitive assessment in the School of Behavioral and Brain Sciences.
 
-My main areas of research are on assessment and intervention of cognition and academic skills at PHSU Neuro-Cognitive Laboratory. You can find more information in the <a href="{{ site.url }}{{ site.baseurl }}/research">Research section</a>.
+My main areas of research are on assessment and intervention of cognition and academic skills at PHSU [Cognition, Learning, and Technology Laboratory (CLTLab)](https://cognition-learning-tech-lab.github.io/). You can find more information in the <a href="{{ site.url }}{{ site.baseurl }}/research">Research section</a>.
 
 
 <!-- Delete next line if you prefer not to have a feature row. -->
