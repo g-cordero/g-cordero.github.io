@@ -5,4 +5,4 @@ permalink: /research/
 layout: research
 ---
 
-## **Here is a list of ongoing and completed research projects from the CLTLab:**
+## **Here is a list of ongoing and completed research projects from the CHTLab:**
